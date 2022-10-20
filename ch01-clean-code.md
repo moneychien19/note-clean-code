@@ -1,4 +1,4 @@
-# Chapter 1: 無瑕的程式碼
+# Chapter 1 無瑕的程式碼
 
 ## 什麼是 Clean Code？
 
